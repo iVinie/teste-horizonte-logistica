@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento configurad
 2. **Instale as dependências do Composer:**
 
     ```bash
-    cd teste-horizonte-log
+    cd teste_horizonte_log
     composer install
     ```
 
