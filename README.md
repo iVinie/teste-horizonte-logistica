@@ -44,6 +44,7 @@ Antes de começar, certifique-se de ter o ambiente de desenvolvimento configurad
 
     ```bash
     php artisan migrate
+    ou php artisan migrate:refresh
     ```
 
 6. **Inicie o servidor de desenvolvimento:**
